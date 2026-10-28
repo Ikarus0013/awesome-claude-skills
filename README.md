@@ -166,6 +166,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [Reqbeat Hiring Signals Skill Pack](https://github.com/reqbeat/reqbeat-skill-pack) - Six skills that turn live hiring signals into pipeline: spot companies that just started hiring for a role and geo, qualify accounts by their open reqs, and watch targets for new roles. Built on the public Reqbeat API; the data is testable without a key. *By [@reqbeat](https://github.com/reqbeat)*
 
 ### Communication & Writing
 
